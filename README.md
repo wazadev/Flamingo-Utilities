@@ -1,4 +1,6 @@
 # Flamingo Utilities
+# Recuerda que el proyecto esta en Releases
+# ejecucion: >python main.py
 
 Flamingo Utilities es una aplicación de utilidades que ofrece una variedad de herramientas útiles para la organización personal. Desde un calendario interactivo hasta la capacidad de tomar notas y marcar fechas importantes, Flamingo Utilities está diseñado para ayudarte a mantener tus tareas diarias y eventos en orden.
 
